@@ -1,0 +1,13 @@
+main
+ //ovo je komentar
+ int smt; float nesto123; bool 0nesto;
+ pok1:=0x23;
+ pok2:=024;
+ pok3:=25;
+ pok4:=0.26E+12;
+ pok5:=0.27E+13;
+ 0pok:=true;
+ 0pok:=false;
+ smt:=24+4;
+ smt:=30-1;
+exit

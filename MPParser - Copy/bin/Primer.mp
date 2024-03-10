@@ -1,0 +1,1 @@
+main(){int a,b; float c;  a = 5; loop(a){c=a; redo (b); b=a;}}
